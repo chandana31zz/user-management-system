@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #1d2433;
+  background: #f7f9ff;
+}
+
+code {
+  font-family: 'Fira Code', Consolas, 'Courier New', monospace;
+}
